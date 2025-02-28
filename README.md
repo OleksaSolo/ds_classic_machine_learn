@@ -9,3 +9,5 @@ The task will be completely related to linear regression and its implementation.
 - we will find the best parameters for the dataset predicting the house price depending on the area, the number of bathrooms and the number of bedrooms;
 - we will find the same parameters using an analytical solution and carry out comparison of the obtained results
 
+
+
